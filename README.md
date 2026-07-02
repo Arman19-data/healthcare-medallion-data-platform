@@ -152,7 +152,7 @@ The **Healthcare Patient Flow Dashboard** provides insights into:
 - **Department-Level KPIs** (length of stay, Total Patients).  
 - **Interactive Filters & Slicers** for gender.
 
-<img width="1282" height="724" alt="Screenshot 2025-08-30 155951" src="https://github.com/user-attachments/assets/cf1f84dc-c1a5-4f07-84aa-1658abb4db16" />
+<img width="1282" height="724" alt="Screenshot 2026-06-30 155951" src="https://github.com/user-attachments/assets/cf1f84dc-c1a5-4f07-84aa-1658abb4db16" />
 
 ---
 
